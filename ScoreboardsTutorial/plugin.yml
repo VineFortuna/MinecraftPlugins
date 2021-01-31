@@ -1,0 +1,6 @@
+name: ScoreboardsTutorial
+main: anthony.Main.Main
+version: 1.0
+commands:
+   sb:
+      description: Scoreboard command!
