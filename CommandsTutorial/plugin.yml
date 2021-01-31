@@ -1,0 +1,10 @@
+name: CommandsTutorial
+main: main.Main
+version: 1.0
+commands:
+   testcmd:
+      description: Test command!
+      usage: /test
+   info:
+      description: Another test command!
+      usage: /info
